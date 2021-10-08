@@ -1,5 +1,7 @@
-//Kushagra Kurl
-//A00246944
+//This is a group activity performed by kushagra and jaskirat
+
+//Kushagra Kurl - A00246944
+//Jaskirat Kaur - A00219135
 //MAPD: MOBILE APPLICATION DEVELOPMENT - fall 2021
 //This is JAV-1001 - 91349 - App Development for Android - 202109 - 001 lab 3 - Classes/ Objects
 
